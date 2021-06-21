@@ -1,25 +1,12 @@
 # golangFamily
 【超全golang面试题合集+golang学习指南+golang知识图谱+成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。
 
-
-<p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-golang%E5%B0%8F%E7%99%BD%E6%88%90%E9%95%BF%E8%AE%B0-blue" alt="公众号"></a>
-  <a href="https://juejin.cn/user/4001878057422087"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/jin-ji-de-ren-shan-ren"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
-  <a href="https://blog.csdn.net/ilini"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
-</p>
-
-
 ![](https://cdn.jsdelivr.net/gh/zhaolunallen/picture/2021-1-8/1610113159235-GO%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF.jpg)
-
-
-
 [脑图持续不断更新中，在线查看地址](https://www.processon.com/view/link/5ff500aa1e08531de81e1288)  
 后续文章和内容会不断更新到 [github项目](https://github.com/xiaobaiTech/golangFamily) 中，欢迎关注。
 
 
 <img src="https://cdn.jsdelivr.net/gh/xiaobaiTech/image/默认标题_动态横版二维码_2021-03-19-0.gif" width="500px" />
-
 # 目录(善用Ctrl+F)
 
 - 基础入门
